@@ -1,3 +1,1 @@
-# Pixelosaurus
-Simple Game
-YUP GOOD TO GO
+Pixelosaurus is an enhanced version of "Dino Game"
